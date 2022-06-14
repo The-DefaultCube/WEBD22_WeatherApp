@@ -1,4 +1,4 @@
-const API_KEY = "d8507594be590ae4530aabcdbffb9459"
+const API_KEY = "API_KEY"
 const express = require("express");
 const https = require("https");
 const bodyParser = require("body-parser")
